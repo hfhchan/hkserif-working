@@ -73,5 +73,5 @@
 		{"contoursBefore":4,"pointsBefore":21,"maskH":[false,true,true,false,true,false],"maskV":[true,false,true,false,true,false,true]}
 	],
 	"contourMasks": [{"contoursBefore":0,"pointsBefore":0,"maskH":[false,false,false,false,false,false],"maskV":[false,false,false,false,true,false,true]},{"contoursBefore":0,"pointsBefore":0,"maskH":[false,true,true,true,false,true],"maskV":[false,false,true,true,false,true,false]}],
-	"CFF_fdSelect": "SourceHanSerifTC-Regular-Ideographs"
+	"CFF_fdSelect": "HKSerif-Regular-Ideographs"
 }
