@@ -1,0 +1,159 @@
+{
+    "advanceWidth": 1000,
+    "advanceHeight": 1000,
+    "verticalOrigin": 880,
+    "contours": [
+        [
+            {"x": 225,"y": 571,"on": true},
+            {"x": 261,"y": 637,"on": false},
+            {"x": 291,"y": 710,"on": false},
+            {"x": 317,"y": 785,"on": true},
+            {"x": 340,"y": 785,"on": false},
+            {"x": 351,"y": 793,"on": false},
+            {"x": 356,"y": 806,"on": true},
+            {"x": 250,"y": 837,"on": true},
+            {"x": 202,"y": 645,"on": false},
+            {"x": 118,"y": 450,"on": false},
+            {"x": 36,"y": 328,"on": true},
+            {"x": 50,"y": 318,"on": true},
+            {"x": 92,"y": 360,"on": false},
+            {"x": 130,"y": 412,"on": false},
+            {"x": 167,"y": 468,"on": true},
+            {"x": 167,"y": -77,"on": true},
+            {"x": 179,"y": -77,"on": true},
+            {"x": 204,"y": -77,"on": false},
+            {"x": 231,"y": -61,"on": false},
+            {"x": 232,"y": -55,"on": true},
+            {"x": 232,"y": 539,"on": true},
+            {"x": 250,"y": 542,"on": false},
+            {"x": 259,"y": 547,"on": false},
+            {"x": 263,"y": 556,"on": true}
+        ],
+        [
+            {"x": 20 + 453,"y": 141,"on": true},
+            {"x": 20 + 453,"y": 239,"on": true},
+            {"x": -20 + 769,"y": 239,"on": true},
+            {"x": -20 + 769,"y": 141,"on": true}
+        ],
+        [
+            {"x": -20 + 769,"y": 370,"on": true},
+            {"x": -20 + 769,"y": 269,"on": true},
+            {"x": 20 + 453,"y": 269,"on": true},
+            {"x": 20 + 453,"y": 370,"on": true}
+        ],
+		[
+            {"x": -28 + 512,"y": 757,"on": true},
+            {"x": -44 + 775,"y": 757,"on": true},
+            {"x": -44 + 775,"y": -6 + 673,"on": true},
+            {"x": -36 + 672,"y": -6 + 673,"on": true},
+            {"x": -36 + 606,"y": -6 + 703,"on": true},
+            {"x": -36 + 606,"y": 519,"on": true},
+            {"x": -28 + 512,"y": 519,"on": true}
+        ],
+        [
+            {"x": -36 + 660,"y": -6 + 643,"on": true},
+            {"x": -44 + 775,"y": -6 + 643,"on": true},
+            {"x": -44 + 775,"y": 519,"on": true},
+            {"x": -36 + 660,"y": 519,"on": true}
+        ],
+        [
+            {"x": 893,"y": 557,"on": true},
+            {"x": 855,"y": 519,"on": true},
+            {"x": -20 + 811,"y": 519,"on": true},
+            {"x": -20 + 811,"y": 749,"on": true},
+            {"x": -20 + 837,"y": 752,"on": false},
+            {"x": -20 + 849,"y": 757,"on": false},
+            {"x": -20 + 856,"y": 768,"on": true},
+            {"x": -20 + 773,"y": 829,"on": true},
+            {"x": -20 + 739,"y": 786,"on": true},
+            {"x": 20 + 476,"y": 786,"on": true},
+            {"x": 20 + 404,"y": 817,"on": true},
+            {"x": 20 + 404,"y": 519,"on": true},
+            {"x": 8+358,"y": 519,"on": true},
+            {"x": 8+356,"y": 533,"on": false},
+            {"x": 8+354,"y": 546,"on": false},
+            {"x": 8+350,"y": 562,"on": true},
+            {"x": 8+334,"y": 563,"on": true},
+            {"x": 8+329,"y": 495,"on": false},
+            {"x": 8+304,"y": 450,"on": false},
+            {"x": 8+272,"y": 431,"on": true},
+            {"x": 8+217,"y": 358,"on": false},
+            {"x": 8+366,"y": 320,"on": false},
+            {"x": 8+360,"y": 489,"on": true},
+            {"x": 859,"y": 489,"on": true},
+            {"x": 852,"y": 460,"on": false},
+            {"x": 843,"y": 425,"on": false},
+            {"x": 837,"y": 405,"on": true},
+            {"x": 838,"y": 405,"on": true},
+            {"x": 852,"y": 399,"on": true},
+            {"x": 873,"y": 420,"on": false},
+            {"x": 906,"y": 458,"on": false},
+            {"x": 925,"y": 479,"on": true},
+            {"x": 944,"y": 480,"on": false},
+            {"x": 956,"y": 482,"on": false},
+            {"x": 962,"y": 490,"on": true}
+        ], [
+			{"x": -20 + 791,"y": 439,"on": true},
+            {"x": -20 + 759,"y": 400,"on": true},
+            {"x": 20 + 458,"y": 400,"on": true},
+            {"x": 20 + 390,"y": 431,"on": true},
+            {"x": 20 + 390,"y": -81,"on": true},
+            {"x": 20 + 401,"y": -81,"on": true},
+            {"x": 20 + 427,"y": -81,"on": false},
+            {"x": 20 + 453,"y": -65,"on": false},
+            {"x": 20 + 453,"y": -58,"on": true},
+            {"x": 20 + 453,"y": 112,"on": true},
+            {"x": -20 + 769,"y": 112,"on": true},
+            {"x": -20 + 769,"y": 26,"on": true},
+            {"x": -20 + 769,"y": 11,"on": false},
+            {"x": -20 + 764,"y": 6,"on": false},
+            {"x": -20 + 746,"y": 6,"on": true},
+            {"x": -20 + 724,"y": 6,"on": false},
+            {"x": -20 + 623,"y": 13,"on": false},
+            {"x": -20 + 623,"y": 13,"on": true},
+            {"x": -20 + 624,"y": -2,"on": true},
+            {"x": -20 + 668,"y": -8,"on": false},
+            {"x": -20 + 694,"y": -16,"on": false},
+            {"x": -20 + 709,"y": -27,"on": true},
+            {"x": -20 + 722,"y": -37,"on": false},
+            {"x": -20 + 727,"y": -55,"on": false},
+            {"x": -20 + 729,"y": -75,"on": true},
+            {"x": -20 + 821,"y": -65,"on": false},
+            {"x": -20 + 832,"y": -33,"on": false},
+            {"x": -20 + 832,"y": 18,"on": true},
+            {"x": -20 + 832,"y": 359,"on": true},
+            {"x": -20 + 851,"y": 363,"on": false},
+            {"x": -20 + 867,"y": 371,"on": false},
+            {"x": -20 + 873,"y": 378,"on": true}
+		]
+    ],
+    "stemH": [],
+    "stemV": [],
+    "hintMasks": [
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [],
+            "maskV": []
+        }
+    ],
+    "contourMasks": [
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [false,false,false,false,false,false,false,false
+            ],
+            "maskV": [true,false,true,false,false,false,true
+            ]
+        },
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [true,false,true,true,true,true,true,true
+            ],
+            "maskV": [false,false,false,true,true,true,false
+            ]
+        }
+    ],
+    "CFF_fdSelect": "HKSerif-Regular-Ideographs"
+}
