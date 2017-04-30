@@ -1,0 +1,123 @@
+{
+    "advanceWidth": 1000,
+    "advanceHeight": 1000,
+    "verticalOrigin": 880,
+    "contours": [
+        [
+            {"x": 85,"y": -52,"on": true},
+            {"x": 96,"y": -50,"on": false},
+            {"x": 106,"y": -42,"on": false},
+            {"x": 111,"y": -30,"on": true},
+            {"x": 317,"y": 6,"on": false},
+            {"x": 472,"y": 42,"on": false},
+            {"x": 593,"y": 73,"on": true},
+            {"x": 591,"y": 91,"on": true},
+            {"x": 375,"y": 62,"on": false},
+            {"x": 155,"y": 37,"on": false},
+            {"x": 57,"y": 31,"on": true}
+        ],
+        [
+            {"x": 18 + 173,"y": 213,"on": true},
+            {"x": 18 + 173,"y": 385,"on": true},
+            {"x": -18 + 465,"y": 385,"on": true},
+            {"x": -18 + 465,"y": 213,"on": true}
+        ],
+        [
+            {"x": -18 + 465,"y": 580,"on": true},
+            {"x": -18 + 465,"y": 414,"on": true},
+            {"x": 18 + 173,"y": 414,"on": true},
+            {"x": 18 + 173,"y": 580,"on": true}
+        ],
+        [
+            {"x": -18 + 476,"y": 135,"on": true},
+            {"x": -18 + 503,"y": 135,"on": false},
+            {"x": -18 + 528,"y": 150,"on": false},
+            {"x": -18 + 528,"y": 155,"on": true},
+            {"x": -18 + 528,"y": 575,"on": true},
+            {"x": -18 + 549,"y": 578,"on": false},
+            {"x": -18 + 560,"y": 584,"on": false},
+            {"x": -18 + 567,"y": 592,"on": true},
+            {"x": -18 + 495,"y": 648,"on": true},
+            {"x": -18 + 462,"y": 609,"on": true},
+            {"x": 18 + 185,"y": 609,"on": true},
+            {"x": 18 + 112,"y": 640,"on": true},
+            {"x": 18 + 112,"y": 124,"on": true},
+            {"x": 18 + 122,"y": 124,"on": true},
+            {"x": 18 + 153,"y": 124,"on": false},
+            {"x": 18 + 173,"y": 138,"on": false},
+            {"x": 18 + 173,"y": 144,"on": true},
+            {"x": 18 + 173,"y": 184,"on": true},
+            {"x": -18 + 465,"y": 184,"on": true},
+            {"x": -18 + 465,"y": 135,"on": true}
+        ],
+        [
+            {"x": -4 + 479,"y": 750,"on": true},
+            {"x": 6 + 58,"y": 750,"on": true},
+            {"x": 6 + 66,"y": 720,"on": true},
+            {"x": -4 + 579,"y": 720,"on": true},
+            {"x": -4 + 591,"y": 720,"on": false},
+            {"x": -4 + 601,"y": 725,"on": false},
+            {"x": -4 + 604,"y": 736,"on": true},
+            {"x": -4 + 573,"y": 767,"on": false},
+            {"x": -4 + 522,"y": 808,"on": false},
+            {"x": -4 + 522,"y": 808,"on": true}
+        ],
+        [
+            {"x": 714,"y": 671,"on": true},
+            {"x": 739,"y": 674,"on": false},
+            {"x": 748,"y": 684,"on": false},
+            {"x": 751,"y": 698,"on": true},
+            {"x": 653,"y": 709,"on": true},
+            {"x": 653,"y": 135,"on": true},
+            {"x": 665,"y": 135,"on": true},
+            {"x": 687,"y": 135,"on": false},
+            {"x": 714,"y": 148,"on": false},
+            {"x": 714,"y": 157,"on": true}
+        ],
+        [
+            {"x": 835,"y": 834,"on": true},
+            {"x": 835,"y": 23,"on": true},
+            {"x": 835,"y": 7,"on": false},
+            {"x": 829,"y": 1,"on": false},
+            {"x": 810,"y": 1,"on": true},
+            {"x": 789,"y": 1,"on": false},
+            {"x": 685,"y": 9,"on": false},
+            {"x": 685,"y": 9,"on": true},
+            {"x": 685,"y": -6,"on": true},
+            {"x": 731,"y": -13,"on": false},
+            {"x": 755,"y": -21,"on": false},
+            {"x": 771,"y": -32,"on": true},
+            {"x": 786,"y": -42,"on": false},
+            {"x": 792,"y": -60,"on": false},
+            {"x": 795,"y": -81,"on": true},
+            {"x": 888,"y": -71,"on": false},
+            {"x": 899,"y": -37,"on": false},
+            {"x": 899,"y": 17,"on": true},
+            {"x": 899,"y": 795,"on": true},
+            {"x": 923,"y": 798,"on": false},
+            {"x": 933,"y": 808,"on": false},
+            {"x": 935,"y": 822,"on": true}
+        ]
+    ],
+    "stemH": [],
+    "stemV": [],
+    "hintMasks": [
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [],
+            "maskV": []
+        }
+    ],
+    "contourMasks": [
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [false,false,true,true,true,false,true,false
+            ],
+            "maskV": [true,true,true,true
+            ]
+        }
+    ],
+    "CFF_fdSelect": "HKSerif-Regular-Ideographs"
+}

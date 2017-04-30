@@ -1,0 +1,75 @@
+{
+    "advanceWidth": 1000,
+    "advanceHeight": 1000,
+    "verticalOrigin": 880,
+    "contours": [
+        [
+            {"x": 371,"y": 668,"on": true},
+            {"x": 432,"y": 611,"on": false},
+            {"x": 514,"y": 518,"on": false},
+            {"x": 539,"y": 447,"on": true},
+            {"x": 618,"y": 396,"on": false},
+            {"x": 662,"y": 560,"on": false},
+            {"x": 381,"y": 676,"on": true}
+        ],
+        [
+            {"x": 9 + 237,"y": 128,"on": true},
+            {"x": 9 + 237,"y": 12 + 742,"on": true},
+            {"x": 9 + 262,"y": 12 + 746,"on": false},
+            {"x": 9 + 273,"y": 12 + 755,"on": false},
+            {"x": 9 + 275,"y": 12 + 770,"on": true},
+            {"x": 9 + 171,"y": 12 + 782,"on": true},
+            {"x": 9 + 171,"y": 129,"on": true}
+        ],
+        [
+            {"x": 760,"y": 800,"on": true},
+            {"x": 754,"y": 360,"on": false},
+            {"x": 733,"y": 124,"on": false},
+            {"x": 271,"y": -62,"on": true},
+            {"x": 280,"y": -81,"on": true},
+            {"x": 526,"y": -2,"on": false},
+            {"x": 660,"y": 95,"on": false},
+            {"x": 734,"y": 221,"on": true},
+            {"x": 805,"y": 142,"on": false},
+            {"x": 882,"y": 28,"on": false},
+            {"x": 897,"y": -64,"on": true},
+            {"x": 980,"y": -128,"on": false},
+            {"x": 1034,"y": 73,"on": false},
+            {"x": 745,"y": 242,"on": true},
+            {"x": 816,"y": 377,"on": false},
+            {"x": 825,"y": 546,"on": false},
+            {"x": 831,"y": 759,"on": true},
+            {"x": 856,"y": 762,"on": false},
+            {"x": 866,"y": 773,"on": false},
+            {"x": 869,"y": 788,"on": true}
+        ],
+        [
+            {"x": 511,"y": 255,"on": true},
+            {"x": 418,"y": 221,"on": false},
+            {"x": 325,"y": 187,"on": false},
+            {"x": 245,"y": 159,"on": true},
+            {"x": 180,"y": 137,"on": true},
+            {"x": 118,"y": 116,"on": false},
+            {"x": 66,"y": 99,"on": false},
+            {"x": 33,"y": 91,"on": true},
+            {"x": 76,"y": 6,"on": true},
+            {"x": 86,"y": 10,"on": false},
+            {"x": 95,"y": 21,"on": false},
+            {"x": 97,"y": 33,"on": true},
+            {"x": 280,"y": 116,"on": false},
+            {"x": 416,"y": 188,"on": false},
+            {"x": 516,"y": 240,"on": true}
+        ]
+    ],
+    "stemH": [],
+    "stemV": [],
+    "hintMasks": [
+        {
+            "contoursBefore": 0,
+            "pointsBefore": 0,
+            "maskH": [],
+            "maskV": []
+        }
+    ],
+    "CFF_fdSelect": "HKSerif-Regular-Ideographs"
+}

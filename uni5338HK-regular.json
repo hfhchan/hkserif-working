@@ -1,0 +1,38 @@
+{
+    "advanceWidth": 1000,
+    "advanceHeight": 1000,
+    "verticalOrigin": 880,
+    "contours": [
+        [
+            {"x": -5 + 806,"y": 21,"on": true},
+            {"x": 211,"y": 21,"on": true},
+            {"x": 211,"y": 702,"on": true},
+            {"x": 32 + 880,"y": 702,"on": true},
+            {"x": 32 + 894,"y": 702,"on": false},
+            {"x": 32 + 904,"y": 707,"on": false},
+            {"x": 32 + 906,"y": 718,"on": true},
+            {"x": 32 + 870,"y": 750,"on": false},
+            {"x": 32 + 812,"y": 793,"on": false},
+            {"x": 32 + 812,"y": 793,"on": true},
+            {"x": 32 + 761,"y": 731,"on": true},
+            {"x": 59,"y": 731,"on": true},
+            {"x": 68,"y": 702,"on": true},
+            {"x": 145,"y": 702,"on": true},
+            {"x": 145,"y": 29,"on": true},
+            {"x": 130,"y": 22,"on": false},
+            {"x": 114,"y": 12,"on": false},
+            {"x": 105,"y": 5,"on": true},
+            {"x": 189,"y": -48,"on": true},
+            {"x": 219,"y": -9,"on": true},
+            {"x": -8 + 926,"y": -9,"on": true},
+            {"x": -8 + 940,"y": -9,"on": false},
+            {"x": -8 + 950,"y": -4,"on": false},
+            {"x": -8 + 952,"y": 7,"on": true},
+            {"x": -8 + 916,"y": 41,"on": false},
+            {"x": -8 + 857,"y": 85,"on": false},
+            {"x": -8 + 857,"y": 85,"on": true}
+        ]
+    ],
+    "CFF_fdSelect": "HKSerif-Regular-Ideographs",
+    "_codepoint": "U 5338"
+}
